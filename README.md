@@ -1,2 +1,11 @@
-# para-contador-java
-Exercício de criação de um programa que utilize a estrutura de repetição 'for' na linguagem de programação Java.
+# Programa: Criando um quadrado numérico através do 'for'!
+- Data: 12/02/2024
+- Contexto: Formação CÓDIGO DE BASE da Educ360° em parceria com a Foursys! | Curso CDB - Java Back-End
+- O que é: Um programa de baixa complexidade que utiliza a estrutura de repetição 'for' na linguagem de programação Java para criar uma figura geométrica quadrada composta de números.
+- Temas envolvidos:
+  - Variáveis;
+  - Saída de dados: System.out.println() e System.out.print();
+  - Operador relacional: '<=';
+  - Estrutura de repetição: 'for';
+  - Estrutura de repetição 'for' aninhanda;
+  - Incremento de variáveisl: '++';
